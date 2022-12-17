@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -9,7 +10,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/23_6recyclerviewscroll" />
+            <option value="$PROJECT_DIR$/adapterdelegates" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/mydiffutil" />
+            <option value="$PROJECT_DIR$/practiceadapterdelegates" />
+            <option value="$PROJECT_DIR$/practicediffutil" />
+            <option value="$PROJECT_DIR$/recyclerviewscroll23_6_2" />
+            <option value="$PROJECT_DIR$/result" />
+            <option value="$PROJECT_DIR$/spanhalperswipedragdrop23_8" />
           </set>
         </option>
       </GradleProjectSettings>

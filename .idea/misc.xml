@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TrainingProject/23_6recyclerviewscroll/src/main/res/drawable/fon.xml" value="0.185" />
+        <entry key="..\:/TrainingProject/23_6recyclerviewscroll/src/main/res/drawable/ic_apple.xml" value="0.185" />
+        <entry key="..\:/TrainingProject/23_6recyclerviewscroll/src/main/res/drawable/ic_banana.xml" value="0.131" />
+        <entry key="..\:/TrainingProject/23_6recyclerviewscroll/src/main/res/drawable/ic_lemon.xml" value="0.131" />
+        <entry key="..\:/TrainingProject/23_6recyclerviewscroll/src/main/res/drawable/ic_orange.xml" value="0.131" />
+        <entry key="..\:/TrainingProject/23_6recyclerviewscroll/src/main/res/drawable/ic_pear.xml" value="0.131" />
+        <entry key="..\:/TrainingProject/23_6recyclerviewscroll/src/main/res/drawable/ic_strawberry.xml" value="0.185" />
+        <entry key="..\:/TrainingProject/23_6recyclerviewscroll/src/main/res/drawable/icon_save.xml" value="0.185" />
+        <entry key="..\:/TrainingProject/23_6recyclerviewscroll/src/main/res/drawable/icon_up.xml" value="0.185" />
+        <entry key="..\:/TrainingProject/23_6recyclerviewscroll/src/main/res/layout/activity_main.xml" value="0.1762917933130699" />
+        <entry key="..\:/TrainingProject/23_6recyclerviewscroll/src/main/res/layout/item.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/23_6recyclerviewscroll/src/main/res/layout/item_ad.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/adapterdelegates/src/main/res/drawable/ic_apple.xml" value="0.185" />
+        <entry key="..\:/TrainingProject/adapterdelegates/src/main/res/drawable/ic_launcher_foreground.xml" value="0.185" />
+        <entry key="..\:/TrainingProject/adapterdelegates/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/adapterdelegates/src/main/res/layout/item.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/adapterdelegates/src/main/res/layout/item_ad.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/adapterdelegates/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.185" />
+        <entry key="..\:/TrainingProject/app/src/main/res/drawable/fon.xml" value="0.275" />
+        <entry key="..\:/TrainingProject/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/TrainingProject/app/src/main/res/layout/fon.xml" value="0.2" />
+        <entry key="..\:/TrainingProject/app/src/main/res/layout/item.xml" value="0.2691256830601093" />
+        <entry key="..\:/TrainingProject/mydiffutil/src/main/res/drawable/ic_android_black_24dp.xml" value="0.275" />
+        <entry key="..\:/TrainingProject/mydiffutil/src/main/res/drawable/ic_apple.xml" value="0.275" />
+        <entry key="..\:/TrainingProject/mydiffutil/src/main/res/drawable/ic_banana.xml" value="0.275" />
+        <entry key="..\:/TrainingProject/mydiffutil/src/main/res/drawable/ic_lemon.xml" value="0.275" />
+        <entry key="..\:/TrainingProject/mydiffutil/src/main/res/drawable/ic_orange.xml" value="0.275" />
+        <entry key="..\:/TrainingProject/mydiffutil/src/main/res/drawable/ic_pear.xml" value="0.275" />
+        <entry key="..\:/TrainingProject/mydiffutil/src/main/res/drawable/ic_strawberry.xml" value="0.275" />
+        <entry key="..\:/TrainingProject/mydiffutil/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/mydiffutil/src/main/res/layout/item.xml" value="0.22826086956521738" />
+        <entry key="..\:/TrainingProject/practiceadapterdelegates/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/practiceadapterdelegates/src/main/res/layout/countable_item.xml" value="0.1" />
+        <entry key="..\:/TrainingProject/practiceadapterdelegates/src/main/res/layout/item.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/practiceadapterdelegates/src/main/res/layout/item_ad.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/practicediffutil/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/practicediffutil/src/main/res/layout/item.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/recyclerviewscroll23_6_2/src/main/res/drawable/ic_apple.xml" value="0.131" />
+        <entry key="..\:/TrainingProject/recyclerviewscroll23_6_2/src/main/res/drawable/ic_banana.xml" value="0.131" />
+        <entry key="..\:/TrainingProject/recyclerviewscroll23_6_2/src/main/res/drawable/ic_lemon.xml" value="0.131" />
+        <entry key="..\:/TrainingProject/recyclerviewscroll23_6_2/src/main/res/drawable/ic_orange.xml" value="0.131" />
+        <entry key="..\:/TrainingProject/recyclerviewscroll23_6_2/src/main/res/drawable/ic_pear.xml" value="0.131" />
+        <entry key="..\:/TrainingProject/recyclerviewscroll23_6_2/src/main/res/drawable/ic_strawberry.xml" value="0.131" />
+        <entry key="..\:/TrainingProject/recyclerviewscroll23_6_2/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/recyclerviewscroll23_6_2/src/main/res/layout/item.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/result/src/main/res/drawable/circle_fon.xml" value="0.2145" />
+        <entry key="..\:/TrainingProject/result/src/main/res/drawable/fon_item.xml" value="0.2145" />
+        <entry key="..\:/TrainingProject/result/src/main/res/drawable/ic_pear.xml" value="0.2145" />
+        <entry key="..\:/TrainingProject/result/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/result/src/main/res/layout/item.xml" value="0.2691256830601093" />
+        <entry key="..\:/TrainingProject/result/src/main/res/layout/item_ad.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/spanhalperswipedragdrop23_8/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/TrainingProject/spanhalperswipedragdrop23_8/src/main/res/layout/page.xml" value="0.2691256830601093" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
